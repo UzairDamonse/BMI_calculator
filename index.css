@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+
+#BMI_link {
+  text-decoration: none;
+  color: white;
+}
+
+#BMI_link:hover {
+  color: lightseagreen;
+}
